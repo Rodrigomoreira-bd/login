@@ -1,14 +1,15 @@
 body {
 	margin: 0px;
 	padding: 0px;
-	height: 100vh;
-	weidht: 100vw;
 }
 .container {
-
+	height: 100vh;
+	width: 100vw;
 }
 .top-bar {
-
+	height: 70px;
+	width: 100;
+	border: solid 1px black;
 }
 .login-box {
 
